@@ -7,18 +7,14 @@ These data were originally archived at the [StatLib library](http://lib.stat.cmu
 
 406 observations with 8 variables:
 
-  mpg.......miles per gallon
-  cyl.......number of cylinders
-  disp......engine displacement (inches^3)
-  horse.....horsepower 
-  weight....vehicle weight (lbs)
-  accel.....time to accelerate from 0 to 60 mph (seconds)
-  year......model year
-  origin....origin of the car
-    1 - American
-    2 - European
-    3 - Japanese
-  name......full name of the car
-  
-  
-  
+Variable | Description
+-------- | ---  
+mpg      | miles per gallon
+cyl      | number of cylinders
+disp     | engine displacement (inches^3)  
+horse    | horsepower  
+weight   | vehicle weight (lbs)  
+accel    | time to accelerate from 0 to 60 mph (seconds)  
+year     | model year  
+origin   | origin of the car <br>  1 - American <br>  2 - European <br> 3 - Japanese
+name     | full name of the car  
