@@ -10,14 +10,14 @@ and Fidell (1979).
 
 Data from:
 
-    Hoffman, D., & Fidell, L. S. (1979). Characteristics 
-    of androgynous, undifferentiated, masculine and
-    feminine middle class women. _Sex Roles, 5_(6),
-    765–781.
+  Hoffman, D., & Fidell, L. S. (1979). Characteristics 
+  of androgynous, undifferentiated, masculine and
+  feminine middle class women. _Sex Roles, 5_(6),
+  765–781.
 
 Variable descriptions from (and summary of methods/measures can be found in):
 
-    Tabachnick, B. G., & Fidell, L. S. (2013). _Using Multivariate Statistics_ (6th ed.). Boston, MA: Pearson.
+  Tabachnick, B. G., & Fidell, L. S. (2013). _Using Multivariate Statistics_ (6th ed.). Boston, MA: Pearson.
 
     
 ## Summary of data
